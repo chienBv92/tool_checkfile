@@ -1,0 +1,17 @@
+G:\Azure\Tools\CheckFile\bin\Debug\net6.0-windows\CheckFile.exe
+G:\Azure\Tools\CheckFile\bin\Debug\net6.0-windows\CheckFile.deps.json
+G:\Azure\Tools\CheckFile\bin\Debug\net6.0-windows\CheckFile.runtimeconfig.json
+G:\Azure\Tools\CheckFile\bin\Debug\net6.0-windows\CheckFile.dll
+G:\Azure\Tools\CheckFile\bin\Debug\net6.0-windows\CheckFile.pdb
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.csproj.AssemblyReference.cache
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.Form1.resources
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.csproj.GenerateResource.cache
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.GeneratedMSBuildEditorConfig.editorconfig
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.AssemblyInfoInputs.cache
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.AssemblyInfo.cs
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.csproj.CoreCompileInputs.cache
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.dll
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\refint\CheckFile.dll
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.pdb
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\CheckFile.genruntimeconfig.cache
+G:\Azure\Tools\CheckFile\obj\Debug\net6.0-windows\ref\CheckFile.dll
